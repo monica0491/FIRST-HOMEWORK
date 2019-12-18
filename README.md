@@ -1,2 +1,0 @@
-# FIRST-HOMEWORK
-CSS and HTML homework
